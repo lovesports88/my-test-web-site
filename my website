@@ -1,9 +1,12 @@
 <!doctype html>
+<html lang="en">
 <head>
-<title>my website!<title>
+<meta charset="utf-8">
+<title>my website!</title>
 </head>
 <body>
   <div>
     <p>my website!</p>
   </div>
 </body>
+</html>
